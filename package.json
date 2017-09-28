@@ -1,0 +1,28 @@
+{
+  "name": "pdo",
+  "version": "0.0.0",
+  "description": "PHP PDO in js COMMING SOON",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mega6382/pdoJs.git"
+  },
+  "keywords": [
+    "pdo",
+    "php",
+    "mysql",
+    "js",
+    "db",
+    "oracle",
+    "nosql"
+  ],
+  "author": "Haseeb A. Basil",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mega6382/pdoJs/issues"
+  },
+  "homepage": "https://github.com/mega6382/pdoJs#readme"
+}
